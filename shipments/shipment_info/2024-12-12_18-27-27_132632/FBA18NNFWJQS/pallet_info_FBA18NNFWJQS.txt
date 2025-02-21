@@ -1,0 +1,3 @@
+Total number of pallets: 3
+
+Number of pallets that are 45" tall: 3

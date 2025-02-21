@@ -1,0 +1,3 @@
+Total number of pallets: 1
+
+Number of pallets that are 40" tall: 1

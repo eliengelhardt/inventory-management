@@ -1,0 +1,3 @@
+Total number of pallets: 6
+
+Number of pallets that are 43" tall: 6
