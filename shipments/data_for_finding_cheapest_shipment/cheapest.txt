@@ -1,4 +1,0 @@
-payload_weight: 4034.25
-cheapest_overall_tot_cost: $1098.8400000000001
-cheapest_overall_ship_cost: $302.52
-cheapest_overall_placement_cost: $796.32

@@ -1,4 +1,0 @@
-Total number of pallets: 3
-
-Number of pallets that are 49" tall: 2
-Number of pallets that are 72" tall: 1
